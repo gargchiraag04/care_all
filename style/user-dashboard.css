@@ -1,0 +1,12 @@
+ a:hover {
+     text-decoration-color: none;
+     text-decoration: none;
+ }
+
+ body {
+     background-color: #EDF5E1;
+ }
+
+ .container {
+     max-width: 100%;
+ }
